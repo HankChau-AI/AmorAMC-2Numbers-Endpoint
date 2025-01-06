@@ -1,0 +1,6 @@
+@AmorAMC_2Numbers_HostAddress = http://localhost:5154
+
+GET {{AmorAMC_2Numbers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
